@@ -13,7 +13,7 @@ body {
 .qrcode {
   display: flex;
   background-color: white;
-  width: 17vw;
+  width: 20vw;
   border-radius: 15px;
   justify-content: center;
   flex-direction: column;
